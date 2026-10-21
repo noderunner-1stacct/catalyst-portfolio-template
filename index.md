@@ -2,7 +2,14 @@
 title: Academic Portfolio Template
 ---
 
-Write pages in Markdown.
+
+(maybe put bio info here..)
+
+# About Me (level 1 header)
+
+## (a level 2 header)
+
+### (a level 3 header)
 
 ## Heading Two 
 
@@ -12,6 +19,9 @@ Font can be *Italic* or **Bold**.
 Code can be highlighted with `backticks`.
 
 Hyperlinks look like this [GitHub Help](https://help.github.com/).
+
+(include the project I did for Burkhardt?..)
+
 
 ### Lists 
 
